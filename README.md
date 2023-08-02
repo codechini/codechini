@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codechini)](https://github.com/codechini/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codechini&size_weight=0.5&count_weight=0.5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codechini&size_weight=0.5&count_weight=0.5&theme=onedark)
 
 
