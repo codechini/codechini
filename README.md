@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codechini&theme=monokai)](https://git.io/streak-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/codechini/github-readme-quotes)
