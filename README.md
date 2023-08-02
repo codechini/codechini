@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<br>
 </div>
 <div align=center>
 <a href="" target="_blank">
@@ -50,11 +51,13 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<br>
 <div align=center>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<br>
 <div align=center>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -63,6 +66,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<br>
 <div align=center>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -71,32 +75,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-<div align=center>
-<table>
-  <tr>
-    <th>
-      <a href="" target="_blank">
-<img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-      <a href="" target="_blank">
-<img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-    </th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
-</div>
+<br>
 <div align="center">
   <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
