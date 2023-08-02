@@ -14,21 +14,18 @@ Here are some ideas to get you started:
 -->
 ## Hi my name is Chinmay
 <br>
-- 🔭 I’m currently working on [Github O2-Web-App](https://github.com/codechini/O2-Web-App)<br>
-- 🌱 I’m currently learning React.js and API's<br>
-- ❓ Ask me about anything related to MERN stack and related technologies  <br>
-- ⚡ Fun fact: I use VIM in VS Code<br>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+
+- 🔭 I’m currently working on [Github O2-Web-App](https://github.com/codechini/O2-Web-App)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning React.js and API's
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use VIM in VS Code
   
 
 
