@@ -74,7 +74,11 @@ Here are some ideas to get you started:
 <div align=center>
 <table>
   <tr>
-    <th>Company</th>
+    <th>
+      <a href="" target="_blank">
+<img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+    </th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
