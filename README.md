@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I use VIM in VS Code
 <br>
 <div align=center>
+  <h3>My stack</h3><br>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -54,15 +55,6 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-<br>
-<div align=center>
-<a href="" target="_blank">
 <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
@@ -71,13 +63,23 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-<h1>Design</h1><br>
+  <h3>Editor of choice</h3>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+<br>
+<div align=center>
+<h3>Design</h3><br>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
 <div align="center">
-  <h2>Connect with me</h2>
+  <h4>Connect with me</h4>
 <a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
