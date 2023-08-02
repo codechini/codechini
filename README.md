@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-
+<div align=center>
 <table>
   <tr>
     <th>Company</th>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
     <td>Mexico</td>
   </tr>
 </table>
-
+</div>
 <div align="center">
   <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
