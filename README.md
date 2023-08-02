@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi my name is Chinmay
-<br>
-
 
 - 🔭 I’m currently working on [Github O2-Web-App](https://github.com/codechini/O2-Web-App)  
   
