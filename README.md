@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I use VIM in VS Code
 <br>
-<div align=center></div>
+<div align=center>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
