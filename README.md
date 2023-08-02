@@ -54,12 +54,6 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-<br>
-<div align=center>
-<a href="" target="_blank">
 <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
@@ -76,6 +70,12 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br>
+<div align=center>
+<h1>Design</h1><br>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 <div align="center">
   <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
