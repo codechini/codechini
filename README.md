@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hi my name is Chinmay
 <br>
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/codechini/O2-Web-App)
-- 🌱 I’m currently learning React.js and API's
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I use VIM in VS Code
-- 
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/codechini/O2-Web-App)<br>
+- 🌱 I’m currently learning React.js and API's<br>
+- ❓ Ask me about anything related to MERN stack and related technologies  <br>
+- ⚡ Fun fact: I use VIM in VS Code<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codechini&layout=pie&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codechini&theme=monokai)](https://git.io/streak-stats) -->
 
