@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi my name is Chinmay
 <br>
-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/codechini/O2-Web-App)
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/codechini/O2-Web-App)
 - 🌱 I’m currently learning React.js and API's
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ Fun fact: I use VIM in VS Code
