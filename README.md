@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <!--![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)-->
 
+<a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
+<img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <div align="start">
   <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/chinmayarangath/" target="_blank">
