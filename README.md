@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-<br>
 <div align=center>
 <h3>Design</h3><br>
 <a href="" target="_blank">
