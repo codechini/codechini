@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a><br>
 </div>
 <div align=center>
 <a href="" target="_blank">
