@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 <div align=center>
-<h3>Design</h3><br>
+<h3>Design</h3>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
