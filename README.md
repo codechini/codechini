@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi my name is Chinmay
 
-- 🔭 I’m currently working on [Github O2-Web-App](https://github.com/codechini/O2-Web-App)  
+- 🔭 I’m currently working on [Github O2-The-Fest](https://github.com/codechini/O2-The-Fest)  
   
 
 - 🌱 I’m currently learning React.js and API's
