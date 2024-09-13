@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [BaseCSS](https://github.com/codechini/baseCSS)  
   
 
-- 🌱 I’m currently learning React.js and API's
+- 🌱 I’m currently learning Cloudflare Workers and API's
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
