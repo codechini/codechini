@@ -1,31 +1,11 @@
-<!--
-### Hi there 👋
-**codechini/codechini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi my name is Chinmay
 
-- 🔭 I’m currently working on [BaseCSS](https://github.com/codechini/baseCSS)  
-  
-
-- 🌱 I’m currently learning Cloudflare Workers and API's
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- Web Dev and a Creative with images.    
 
 - ⚡ Fun fact: I use VIM in VS Code
 <br>
-<div align=center>
+<!-- <div align=center>
   <h3>My stack</h3><br>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -91,7 +71,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br>
+<br> -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=codechini&&style=flat-square" align="center" />
 </div>  
