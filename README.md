@@ -2,8 +2,6 @@
 ## Hi my name is Chinmay
 
 - Web Dev and a Creative with images.    
-
-- ⚡ Fun fact: I use VIM in VS Code
 <br>
 <!-- <div align=center>
   <h3>My stack</h3><br>
