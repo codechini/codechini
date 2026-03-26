@@ -1,7 +1,7 @@
 
 ## Hi my name is Chinmay
 
-- Web Dev and a Creative with images.    
+- Web Dev and a Creative.    
 <br>
 <!-- <div align=center>
   <h3>My stack</h3><br>
