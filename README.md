@@ -1,7 +1,7 @@
 
-## Hi my name is Chinmay
+## I am Chinmay
 
-- Web Dev and a Creative.    
+- I create Art.    
 <br>
 <!-- <div align=center>
   <h3>My stack</h3><br>
