@@ -1,5 +1,4 @@
 
-## I am \n Chinmay
 ## I create Art.    
 <br>
 <div align="center">
